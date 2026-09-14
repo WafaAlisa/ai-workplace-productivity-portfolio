@@ -2,7 +2,7 @@
 
 **Role:** Business Analyst
 
-This plan describes realistic ways I can use generative AI in Business Analysis work while keeping accuracy, confidentiality, and final decisions under human control.
+This plan describes how I will use generative AI in recurring Business Analysis tasks after completing the training, while keeping accuracy, confidentiality, and final decisions under human control.
 
 | Recurring Task | Expected Benefit | Preferred Prompt or Workflow | Main Risk / Verification Requirement | Frequency | What Success Looks Like |
 |---|---|---|---|---|---|
