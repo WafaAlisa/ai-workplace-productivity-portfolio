@@ -11,7 +11,7 @@
 ---
 ## Trainee Information
 
-- **Trainee Name:** Alisa
+- **Trainee Name:** Wafa Alisa
 - **Training Program:** L0-FGP — Generative AI for Workplace Productivity
 - **Instructor:** Fahad Alqahtani
 - **Date:** September 14, 2026
@@ -59,8 +59,8 @@ The scenario involves:
 
 | Section | Description |
 |---|---|
-| [1-Prompt Engineering](01-prompt-engineering/prompt-library.md) | Six reusable workplace prompts for common Business Analysis tasks |
-| [1-Before and After Example](01-prompt-engineering/before-after-example.md) | Comparison between a weak prompt and a structured prompt |
+| [1a-Prompt Engineering](01-prompt-engineering/prompt-library.md) | Six reusable workplace prompts for common Business Analysis tasks |
+| [1b-Before and After Example](01-prompt-engineering/before-after-example.md) | Comparison between a weak prompt and a structured prompt |
 | [2-Writing Workflow](02-writing-workflow/professional-writing-example.md) | Professional communication workflow using drafting, verification, refinement, and human sign-off |
 | [3-Information Workflow](03-information-workflow/information-processing-example.md) | Transformation of unstructured stakeholder notes into a decision-ready brief |
 | [4-Planning Workflow](04-planning-workflow/planning-example.md) | A Business Analysis initiative divided into phases, tasks, dependencies, and human decision points |
