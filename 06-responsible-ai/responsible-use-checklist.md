@@ -2,35 +2,35 @@
 
 ## Accuracy
 
-I compare AI-assisted outputs with the original source before using them. Names, dates, numbers, requirements, decisions, and deadlines must be supported by the source. Missing information is labelled rather than guessed.
+For the stakeholder notes used in the Information Workflow, I compared the AI-generated summary with the original notes. I checked names, dates, actions, decisions, and requirements and corrected unsupported statements.
 
 ## Accountability
 
-I remain responsible for the final content. AI supports drafting, summarising, and organising information, but it does not own the analysis or make business decisions.
+I remain responsible for the final Business Analysis outputs in this portfolio. AI was used to support drafting, summarising, organising, and prioritising information, but I reviewed and approved the final content.
 
 ## Confidentiality
 
-I do not enter real confidential project documents, client information, contracts, credentials, or internal security details into unapproved AI tools. This portfolio uses fictional or anonymised information only.
+The stakeholder notes and other information used in this portfolio are fictional. I did not include real project documents, client information, contracts, credentials, or internal security details.
 
 ## Privacy
 
-I minimise and anonymise personal information. Real employee, customer, or stakeholder information is not included in this repository.
+The portfolio does not contain real employee, customer, or stakeholder personal information. Any example information is fictional or anonymised.
 
 ## Bias
 
-I review AI-generated summaries, prioritisation, and recommendations for unsupported assumptions or unfair treatment. Where the source does not provide enough evidence, I avoid allowing AI to make unsupported conclusions.
+I reviewed AI-generated summaries and prioritisation for unsupported assumptions or unfair conclusions. Where the source did not provide enough evidence, I avoided allowing AI to make unsupported conclusions.
 
 ## Human Oversight
 
-A human reviews important requirements, communications, risks, and recommendations before they are used. AI does not make the final business, legal, privacy, security, or people-related decision.
+I reviewed the AI-generated outputs against the original information before including them in the portfolio. Final requirements, priorities, recommendations, and decisions remain subject to human judgement.
 
 ## Green / Amber / Red Classification
 
-| Information Item | Classification | Reason | Required Handling |
+| Information Item Used in the Portfolio | Classification | Reason | Required Handling |
 |---|---|---|---|
-| Fictional stakeholder notes and Business Analysis examples | Green | They contain no real personal, confidential, or organisational information | Safe to use in prompts and portfolio examples after a basic review |
-| Anonymised internal meeting notes with project context | Amber | Even without names, the context may reveal internal plans, processes, or risks | Use only in an organisation-approved AI tool, minimise details, and review before sharing |
-| Real customer records, employee information, passwords, contracts, or security details | Red | They contain personal, confidential, contractual, or security-sensitive information | Do not enter them into a general AI tool; follow organisational policy and use authorised systems only |
+| Fictional stakeholder meeting notes from the Information Workflow | Green | The information is fictional and contains no real personal or confidential data | Safe to use in this portfolio after review |
+| Anonymised stakeholder or process information | Amber | Even when names are removed, business context could potentially reveal internal processes or plans | Use only in an approved AI tool, minimise details, and review before sharing |
+| Real employee records, customer information, passwords, contracts, or security details | Red | These may contain personal, confidential, contractual, or security-sensitive information | Do not upload to a general AI tool or public repository; use authorised systems and follow organisational policy |
 
 ## Portfolio Safety Confirmation
 
